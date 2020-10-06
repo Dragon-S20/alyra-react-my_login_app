@@ -1,3 +1,6 @@
+# login-react 
+_build used to create public folder on login-express.static_
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
