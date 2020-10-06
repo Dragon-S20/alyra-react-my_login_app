@@ -30,7 +30,7 @@ const LoginForm = () => {
         name="button"
         value="buttonId"
         type="submit"
-        class="btn btn-light"
+        className="btn btn-light"
       >
         submit
       </button>
